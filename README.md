@@ -23,3 +23,7 @@ Potential Use Cases
 •	Trend analysis over time (e.g., pricing or genre popularity)
 
 •	Consumer behavior modeling (based on reviews, ratings, and price)
+## 📊 Dashboard Overview
+
+### Chart Set 
+![Chart](Charts.jpg)
