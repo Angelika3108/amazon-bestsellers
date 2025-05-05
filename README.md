@@ -1,4 +1,3 @@
-Project Overview
 This project explores the top 50 bestselling books on Amazon from 2009 to 2019. Using this dataset, we analyze trends in pricing, genres, user engagement, and author popularity. This can help publishers, retailers, and authors better understand what sells in the book market.
 ________________________________________
 Dataset
